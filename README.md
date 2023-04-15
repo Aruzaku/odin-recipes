@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small collection of recipes put together as my first HTML project for The Odin Project, reflecting all that I've learned so far. It's not going to be much at this point, but we all have to start somewhere!
