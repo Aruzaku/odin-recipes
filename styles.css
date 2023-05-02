@@ -1,33 +1,33 @@
 /*Index page CSS*/
 
 * {
-background-color: #87684c;
+    background-color: #fcfbf4;
+    text-align: center;
 }
 
 .headerfont {
-    font-family: sans-serif; Garamond; Verdana;
-    text-align: center;
+    font-family: "American Typewriter", sans-serif, Verdana; 
     color: white;
     font-weight: 600;
-    background-color: #4a372c;
+    background-color: #614c40;
 }
 
-.imgsize1 {
-    width: auto;
+#imgindex {
     height: 350px;
-    border-radius: 8px
-    text-shadow: 2px 2px 5px black;
+    width: auto; 
+    border-radius: 15px;
 }
 
 #pfont {
     font-size: 20px;
-    font-family: sans-serif; Garamond; Verdana;
+    font-family: "Gill Sans", sans-serif, Verdana;
 }
 
 .lfont {
-    color: #ffffff;
+    color: brown;
     font-size: 18px;
-    font-family: sans-serif; Garamond; Verdana;
+    font-family: "Gill Sans", sans-serif, Verdana;
+    list-style-position: inside;
 }
 
 .smol {
@@ -35,4 +35,35 @@ background-color: #87684c;
     bottom: 0;
 }
 
-/*banana_bread.html*/
+
+/*recipes let's goooo*/
+
+#headercss {
+    font-family: "American Typewriter", Helvetica, Verdana; 
+    font-weight: 700;
+    text-align: center;
+}
+
+.yummy {
+    height: 350px;
+    width: auto; 
+    border-radius: 15px;  
+}
+
+.whatrecipe {
+    font-family: "American Typewriter", sans-serif, Verdana; 
+    color: rgb(71, 62, 62);
+    font-weight: 600; 
+    text-align: left;
+}
+
+.thisrecipe {
+    font-family: Georgia, Verdana, Helvetica;
+    color: black;
+    list-style-position: inside;
+    text-align: left;
+}
+
+.countryroads {
+    bottom: 0;
+}
