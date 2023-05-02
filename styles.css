@@ -2,7 +2,6 @@
 
 * {
     background-color: #fcfbf4;
-    text-align: center;
 }
 
 .headerfont {
@@ -10,12 +9,16 @@
     color: white;
     font-weight: 600;
     background-color: #614c40;
+    text-align: center;
 }
 
 #imgindex {
     height: 350px;
     width: auto; 
     border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #pfont {
@@ -44,14 +47,13 @@
     text-align: center;
 }
 
-#div icyblue {
-    background-color: rgb(129, 175, 218);
-}
-
 .yummy {
     height: 350px;
     width: auto; 
-    border-radius: 15px;  
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .whatrecipe {
