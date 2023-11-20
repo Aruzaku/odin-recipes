@@ -1,7 +1,7 @@
 /*Index page CSS*/
 
-* {
-    background-color: #fcfbf4;
+div {
+    background-color: #f3f0db;
 }
 
 .headerfont {
@@ -10,6 +10,7 @@
     font-weight: 600;
     background-color: #614c40;
     text-align: center;
+    padding: 16px;
 }
 
 #imgindex {
@@ -17,20 +18,47 @@
     width: auto; 
     border-radius: 15px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
+    margin: auto;
 }
 
 #pfont {
+    color: brown;
     font-size: 20px;
     font-family: "Gill Sans", sans-serif, Verdana;
+    display: block;
+    padding: 16px;
+    text-align: center;
 }
 
-.lfont {
-    color: brown;
+.landing {
     font-size: 18px;
     font-family: "Gill Sans", sans-serif, Verdana;
-    list-style-position: inside;
+    text-align: center;
+    color: white;
+    text-align: center;
+}
+
+.landing li {
+    margin: auto;
+    padding: 0px; 
+    list-style: none;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    font-family: "Gill Sans", sans-serif, Verdana;
+    font-size: 18px;
+    color: white;
+    background-color: #80756f;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+    
 }
 
 .smol {
